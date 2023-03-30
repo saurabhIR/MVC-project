@@ -1,0 +1,135 @@
+[24-Mar-2023 09:14:57 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 09:15:08 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 09:19:43 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 09:20:35 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 09:20:37 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 09:20:37 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[24-Mar-2023 15:33:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(96): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(16): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 96
+[24-Mar-2023 15:39:29 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined global variable $_SESSION'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Feed.php(16): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Feed->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Feed.php' on line 16
+[24-Mar-2023 15:41:13 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Feed.php(17): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Feed->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Feed.php' on line 17
+[24-Mar-2023 15:47:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(95): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 95
+[24-Mar-2023 15:49:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(95): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 95
+[24-Mar-2023 15:53:07 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(98): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 98
+[24-Mar-2023 15:56:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(97): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 97
+[24-Mar-2023 15:57:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(97): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 97
+[24-Mar-2023 15:58:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "email"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Login.php(23): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Login->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Login.php' on line 23
+[24-Mar-2023 15:59:54 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(99): mysqli_real_escape_string()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 99
+[24-Mar-2023 16:00:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(100): mysqli_real_escape_string()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 100
+[24-Mar-2023 16:02:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(100): mysqli_real_escape_string()
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#3 [internal function]: App\Controllers\Feed->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 100

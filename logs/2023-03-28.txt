@@ -1,0 +1,296 @@
+[28-Mar-2023 09:45:27 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 09:45:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 09:45:56 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 09:46:03 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 09:46:05 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 09:55:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(16): session_start()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Feed.php' on line 16
+[28-Mar-2023 10:44:52 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 10:44:55 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 10:44:59 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 10:45:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:47 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:48 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:48 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:50 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 11:25:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[28-Mar-2023 12:38:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "post_id"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Feed.php(44): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Feed->questionAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Feed.php' on line 44
+[28-Mar-2023 14:05:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(141): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(46): App\Models\User->view_question()
+#2 [internal function]: App\Controllers\Feed->questionAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 141
+[28-Mar-2023 14:05:05 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(141): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(46): App\Models\User->view_question()
+#2 [internal function]: App\Controllers\Feed->questionAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 141
+[28-Mar-2023 14:05:08 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(141): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(46): App\Models\User->view_question()
+#2 [internal function]: App\Controllers\Feed->questionAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 141
+[28-Mar-2023 14:57:42 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(141): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(46): App\Models\User->view_question()
+#2 [internal function]: App\Controllers\Feed->questionAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 141
+[28-Mar-2023 15:39:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(141): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(63): App\Models\User->view_question()
+#2 [internal function]: App\Controllers\Feed->questionAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 141
+[28-Mar-2023 15:40:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewquestion.php(26): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(66): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->questionAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewquestion.php' on line 26
+[28-Mar-2023 15:41:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewquestion.php(26): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(66): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->questionAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewquestion.php' on line 26
+[28-Mar-2023 17:22:32 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Method viewquestionAction not found in controllerApp\Controllers\Feed'
+Stack trace: #0 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#1 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#2 {main}
+Thrown in '/var/www/squora2.com/html/Core/Controller.php' on line 54
+[28-Mar-2023 18:17:43 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Trying to access array offset on value of type bool'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Edit/new.php(17): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Edit.php(41): Core\View::render()
+#3 [internal function]: App\Controllers\Edit->deleteAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Edit/new.php' on line 17
+[28-Mar-2023 18:17:48 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(15): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->questionAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 15
+[28-Mar-2023 18:18:38 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Feed/view.php not found'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Edit.php(41): Core\View::render()
+#1 [internal function]: App\Controllers\Edit->deleteAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/Core/View.php' on line 30
+[28-Mar-2023 18:19:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(15): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(71): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->questionAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 15

@@ -1,0 +1,30 @@
+[22-Mar-2023 14:39:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $email'
+Stack trace: #0 /var/www/pr.com/html/App/Views/Login/new.php(11): Core\Error::errorHandler()
+#1 /var/www/pr.com/html/Core/View.php(28): require('...')
+#2 /var/www/pr.com/html/App/Controllers/Login.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Login->newAction()
+#4 /var/www/pr.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/pr.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/pr.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/pr.com/html/App/Views/Login/new.php' on line 11
+[22-Mar-2023 14:40:14 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $email'
+Stack trace: #0 /var/www/pr.com/html/App/Views/Login/new.php(11): Core\Error::errorHandler()
+#1 /var/www/pr.com/html/Core/View.php(28): require('...')
+#2 /var/www/pr.com/html/App/Controllers/Login.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Login->newAction()
+#4 /var/www/pr.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/pr.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/pr.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/pr.com/html/App/Views/Login/new.php' on line 11
+[22-Mar-2023 15:03:09 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $user'
+Stack trace: #0 /var/www/pr.com/html/App/Views/Login/new.php(11): Core\Error::errorHandler()
+#1 /var/www/pr.com/html/Core/View.php(28): require('...')
+#2 /var/www/pr.com/html/App/Controllers/Login.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Login->newAction()
+#4 /var/www/pr.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/pr.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/pr.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/pr.com/html/App/Views/Login/new.php' on line 11

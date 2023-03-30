@@ -1,0 +1,312 @@
+[23-Mar-2023 15:43:23 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined property: App\Models\User::$name'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(58): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(22): App\Models\User->validate()
+#2 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#3 [internal function]: App\Controllers\Signup->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 58
+[23-Mar-2023 15:44:30 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined property: App\Models\User::$name'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(58): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(22): App\Models\User->validate()
+#2 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#3 [internal function]: App\Controllers\Signup->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 58
+[23-Mar-2023 15:44:53 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined property: App\Models\User::$name'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(58): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(22): App\Models\User->validate()
+#2 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#3 [internal function]: App\Controllers\Signup->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 58
+[23-Mar-2023 15:47:34 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $first_name'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 15:48:55 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 15:49:46 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 15:53:07 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $sql'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(52): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 52
+[23-Mar-2023 15:56:50 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 16:02:27 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 16:09:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:17:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:18:52 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Duplicate entry '22' for key 'user_data.PRIMARY''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(45): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 45
+[23-Mar-2023 16:18:56 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Duplicate entry '22' for key 'user_data.PRIMARY''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(45): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 45
+[23-Mar-2023 16:29:52 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:31:30 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:31:55 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:34:27 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:34:54 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $users'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(20): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(15): App\Models\User->__construct()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 20
+[23-Mar-2023 16:35:39 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $user'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(20): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(15): App\Models\User->__construct()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 20
+[23-Mar-2023 16:36:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $users'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(20): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(15): App\Models\User->__construct()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 20
+[23-Mar-2023 16:36:44 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $user'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(20): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(15): App\Models\User->__construct()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 20
+[23-Mar-2023 16:37:07 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $user'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(20): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(15): App\Models\User->__construct()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 20
+[23-Mar-2023 16:37:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(41): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 41
+[23-Mar-2023 16:38:00 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:39:13 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $fname'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(42): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#2 [internal function]: App\Controllers\Signup->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 42
+[23-Mar-2023 16:43:39 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(27): mysqli_real_escape_string()
+#2 /var/www/squora2.com/html/App/Controllers/Signup.php(16): App\Models\User->save()
+#3 [internal function]: App\Controllers\Signup->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 27
+[23-Mar-2023 18:14:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "email"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Login.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Login->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Login.php' on line 15
+[23-Mar-2023 18:17:19 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "email"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Login.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Login->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Login.php' on line 15
+[23-Mar-2023 18:17:22 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "email"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Login.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Login->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Login.php' on line 15
+[23-Mar-2023 18:19:16 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Method successAction not found in controllerApp\Controllers\Home'
+Stack trace: #0 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#1 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#2 {main}
+Thrown in '/var/www/squora2.com/html/Core/Controller.php' on line 54
+[23-Mar-2023 18:19:37 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Method successAction not found in controllerApp\Controllers\Login'
+Stack trace: #0 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#1 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#2 {main}
+Thrown in '/var/www/squora2.com/html/Core/Controller.php' on line 54
+[23-Mar-2023 20:57:19 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 20:59:33 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:00:42 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:00:44 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:00:55 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:01:31 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:01:46 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:01:47 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:01:47 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[23-Mar-2023 21:03:25 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Feed not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
