@@ -1,0 +1,840 @@
+[27-Mar-2023 10:53:24 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 10:53:42 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 10:54:26 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:03:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:03:18 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:05:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:05:42 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:06:27 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Duplicate entry 'saurabh.kumawat@innoraft.com' for key 'questions.PRIMARY''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(102): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 102
+[27-Mar-2023 11:06:51 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:07:04 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:07:23 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:16 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:18 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:27 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:33 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:08:45 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:25:43 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:27:09 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:27:09 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:27:10 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:27:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:27:37 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:29:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:29:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:29:28 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:30:31 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:30:32 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:30:32 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:30:38 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 11:36:45 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Duplicate entry 'saurabh.kumawat@innoraft.com' for key 'questions.PRIMARY''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(103): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 103
+[27-Mar-2023 11:37:25 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Duplicate entry 'saurabh.kumawat@innoraft.com' for key 'questions.PRIMARY''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(106): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(17): App\Models\User->question_post()
+#2 [internal function]: App\Controllers\Feed->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 106
+[27-Mar-2023 12:00:15 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:01:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'include(./App/Controllers/Feed.php): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): include()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:01:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'include(./App/Controllers/Feed.php): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): include()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:19 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'include(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): include()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:19 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'include(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): include()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:19 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'include(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): include()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:40 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:04:57 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'require_once(/Feed/view): Failed to open stream: No such file or directory'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(43): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Views/Feed/new.php(43): require_once()
+#2 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#3 /var/www/squora2.com/html/App/Controllers/Feed.php(11): Core\View::render()
+#4 [internal function]: App\Controllers\Feed->newAction()
+#5 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#6 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#7 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 43
+[27-Mar-2023 12:24:25 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $result'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(45): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 45
+[27-Mar-2023 12:32:27 Asia/Calcutta] Uncaught exception: 'ArgumentCountError' with message 'Too few arguments to function Core\Controller::__construct(), 0 passed in /var/www/squora2.com/html/App/Views/Feed/new.php on line 6 and exactly 1 expected'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(6): Core\Controller->__construct()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/Core/Controller.php' on line 26
+[27-Mar-2023 12:32:56 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $feed'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(9): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 9
+[27-Mar-2023 12:33:39 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(45): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 45
+[27-Mar-2023 12:33:49 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $feed'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(45): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 45
+[27-Mar-2023 12:33:57 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $feed'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(45): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 45
+[27-Mar-2023 12:34:25 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $feed'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(9): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 9
+[27-Mar-2023 12:34:39 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(44): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 44
+[27-Mar-2023 12:34:44 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/new.php(44): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(38): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/new.php' on line 44
+[27-Mar-2023 12:43:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Feed.php(36): session_start()
+#2 /var/www/squora2.com/html/App/Views/Feed/new.php(10): App\Controllers\Feed->viewAction()
+#3 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#4 /var/www/squora2.com/html/App/Controllers/Feed.php(46): Core\View::render()
+#5 [internal function]: App\Controllers\Feed->viewAction()
+#6 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#7 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#8 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#9 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Feed.php' on line 36
+[27-Mar-2023 15:03:07 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $result'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(12): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(34): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 12
+[27-Mar-2023 15:23:10 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "title"'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(13): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(34): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 13
+[27-Mar-2023 15:24:14 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $arr'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(12): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(34): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 12
+[27-Mar-2023 15:25:17 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "description"'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(16): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(34): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 16
+[27-Mar-2023 15:25:19 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "description"'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Feed/viewpost.php(16): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Feed.php(34): Core\View::render()
+#3 [internal function]: App\Controllers\Feed->viewAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Feed/viewpost.php' on line 16
+[27-Mar-2023 17:26:31 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Userprofile not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[27-Mar-2023 17:27:52 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Userprofile not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[27-Mar-2023 17:27:53 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Userprofile not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[27-Mar-2023 17:31:28 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Userprofile not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[27-Mar-2023 17:32:01 Asia/Calcutta] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Userprofile not found'
+Stack trace: #0 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/squora2.com/html/Core/Router.php' on line 131
+[27-Mar-2023 17:35:44 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:37:53 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(127): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:38:04 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(127): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#3 [internal function]: App\Controllers\Userprofile->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:39:01 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:39:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:40:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(127): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Userprofile.php(16): App\Models\User->user_profile()
+#2 [internal function]: App\Controllers\Userprofile->createAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 127
+[27-Mar-2023 17:40:36 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 15
+[27-Mar-2023 17:40:37 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 15
+[27-Mar-2023 17:40:43 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 15
+[27-Mar-2023 17:42:35 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(15): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 15
+[27-Mar-2023 17:45:12 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(14): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 14
+[27-Mar-2023 17:45:13 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(14): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 14
+[27-Mar-2023 17:47:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(14): Core\Error::errorHandler()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/App/Controllers/Userprofile.php' on line 14
+[27-Mar-2023 17:49:02 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(86): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Login.php(15): App\Models\User::findByEmail()
+#3 [internal function]: App\Controllers\Login->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 86
+[27-Mar-2023 17:49:41 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'session_start(): Ignoring session_start() because a session is already active'
+Stack trace: #0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Models/User.php(86): session_start()
+#2 /var/www/squora2.com/html/App/Controllers/Login.php(15): App\Models\User::findByEmail()
+#3 [internal function]: App\Controllers\Login->createAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 86
+[27-Mar-2023 18:04:04 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//User/viewpost.php not found'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(18): Core\View::render()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/Core/View.php' on line 30

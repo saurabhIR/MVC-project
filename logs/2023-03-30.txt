@@ -1,0 +1,92 @@
+[30-Mar-2023 09:31:32 Asia/Calcutta] Uncaught exception: 'mysqli_sql_exception' with message 'Unknown column 'email' in 'where clause''
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(205): mysqli_query()
+#1 /var/www/squora2.com/html/App/Controllers/Password.php(82): App\Models\User::updatePassword()
+#2 [internal function]: App\Controllers\Password->resetAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 205
+[30-Mar-2023 09:34:59 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(202): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Password.php(82): App\Models\User::updatePassword()
+#2 [internal function]: App\Controllers\Password->resetAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 202
+[30-Mar-2023 09:35:13 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(202): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Password.php(82): App\Models\User::updatePassword()
+#2 [internal function]: App\Controllers\Password->resetAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 202
+[30-Mar-2023 09:38:08 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined array key "username"'
+Stack trace: #0 /var/www/squora2.com/html/App/Models/User.php(202): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/App/Controllers/Password.php(82): App\Models\User::updatePassword()
+#2 [internal function]: App\Controllers\Password->resetAction()
+#3 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#4 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#5 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#6 {main}
+Thrown in '/var/www/squora2.com/html/App/Models/User.php' on line 202
+[30-Mar-2023 10:01:50 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Userprofile/new.php(27): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(10): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Userprofile/new.php' on line 27
+[30-Mar-2023 10:02:05 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Userprofile/new.php(27): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(10): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Userprofile/new.php' on line 27
+[30-Mar-2023 10:02:31 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Userprofile/new.php(27): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(10): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Userprofile/new.php' on line 27
+[30-Mar-2023 10:07:20 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Feed/view.php not found'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(24): Core\View::render()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/Core/View.php' on line 30
+[30-Mar-2023 10:07:24 Asia/Calcutta] Uncaught exception: 'Exception' with message '../App/Views//Feed/view.php not found'
+Stack trace: #0 /var/www/squora2.com/html/App/Controllers/Userprofile.php(24): Core\View::render()
+#1 [internal function]: App\Controllers\Userprofile->createAction()
+#2 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#3 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#4 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#5 {main}
+Thrown in '/var/www/squora2.com/html/Core/View.php' on line 30
+[30-Mar-2023 11:48:53 Asia/Calcutta] Uncaught exception: 'ErrorException' with message 'Undefined variable $row'
+Stack trace: #0 /var/www/squora2.com/html/App/Views/Userprofile/new.php(28): Core\Error::errorHandler()
+#1 /var/www/squora2.com/html/Core/View.php(28): require('...')
+#2 /var/www/squora2.com/html/App/Controllers/Userprofile.php(19): Core\View::render()
+#3 [internal function]: App\Controllers\Userprofile->newAction()
+#4 /var/www/squora2.com/html/Core/Controller.php(49): call_user_func_array()
+#5 /var/www/squora2.com/html/Core/Router.php(125): Core\Controller->__call()
+#6 /var/www/squora2.com/html/public/index.php(40): Core\Router->dispatch()
+#7 {main}
+Thrown in '/var/www/squora2.com/html/App/Views/Userprofile/new.php' on line 28
